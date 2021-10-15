@@ -1,7 +1,7 @@
 {
-    "name": "VCPlayerBot",
+    "name": "ParadoXmusic",
     "description": "Telegram bot to stream video in telegram VC",
-    "repository": "https://github.com/subinps/VCPlayerBot",
+    "repository": "https://github.com/nishfu22/MusicParadox1",
     "stack": "container",
     "keywords": [
       "telegram",
